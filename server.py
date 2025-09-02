@@ -1,6 +1,5 @@
 from youtube_search import YoutubeSearch
 from mcp.server.fastmcp import FastMCP
-import json
 
 mcp = FastMCP("youtube-search")
 
